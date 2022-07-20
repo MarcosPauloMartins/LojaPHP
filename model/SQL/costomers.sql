@@ -8,7 +8,7 @@ CREATE TABLE customers (
 	cidade varchar(100),
 	estado varchar(100),
 	telefone varchar(20),	 
-	celular varchar(20),
+	celular varchar(20)
 );
 
 ALTER TABLE customers
